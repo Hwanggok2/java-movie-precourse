@@ -1,3 +1,4 @@
+package movie;
 public enum SeatGrade {
     S(18_000), A(15_000), B(12_000);
 

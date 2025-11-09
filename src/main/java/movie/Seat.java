@@ -1,3 +1,4 @@
+package movie;
 public class Seat {
     private final SeatNumber seatNumber;
     private final SeatGrade seatGrade;

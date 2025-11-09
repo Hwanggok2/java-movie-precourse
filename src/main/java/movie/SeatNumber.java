@@ -1,3 +1,4 @@
+package movie;
 public class SeatNumber {
     private final Row row;
     private final Column column;
